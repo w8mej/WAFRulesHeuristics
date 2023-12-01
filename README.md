@@ -30,7 +30,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/cloudsriseup/WAFRulesHeuristics`
+- Clone this repo to your local machine using `https://github.com/w8mej/WAFRulesHeuristics`
 
 
 ---
@@ -45,7 +45,7 @@
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/cloudsriseup/WAFRulesHeuristics`
+    - 👯 Clone this repo to your local machine using `https://github.com/w8mej/WAFRulesHeuristics`
 
 ### Step 2
 
@@ -53,7 +53,7 @@
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/cloudsriseup/WAFRulesHeuristics/compare/" target="_blank">`https://github.com/cloudsriseup/WAFRulesHeuristics/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/w8mej/WAFRulesHeuristics/compare/" target="_blank">`https://github.com/w8mej/WAFRulesHeuristics/compare/`</a>.
 
 ---
 
